@@ -7,7 +7,18 @@ This a work in collaboration with researchers from KULeaven. The scripts are wri
 
 ## Description
 In our study, we calibrated the muscle passive force-length relationships, personalized the tendon compliance, and informed the actuator’s control, i.e., muscle excitation, with recorded EMGs to evaluate how various simulation workflows, each with increasing levels of personalization, improve the estimates of muscle excitations and fiber lengths compared to EMGs and ultrasound imaging, respectively. Later, based on the simulation workflow with the best estimation of the muscle-tendon states, i.e., the highest biofidelity, we evaluate which metabolic cost model from the literature provides the best estimates of the metabolic cost compared to recorded measurements. Overall, we observed that realistic estimations of muscle activations, muscle fiber lengths, and metabolic rates are achieved by accounting for an adequate representation of passive forces, particularly at the knee and hip, a highly compliant Achilles and patellar tendon, and metabolic cost models with heat rates based on fiber-type composition and null or small eccentric contraction cost.
-In this repository, we share the computational tools to implement the simulations performed in our study. The simulation framework is composed of three main scripts: 
+In this repository, we share the computational tools to implement the simulations performed in our study.
+<br>
+
+## Installation instruction
+You need to use Matlab to run the scripts, and download three software packages:
+* Install Opensim. Open-source software for musculoskeletal modelling and simulations, our algorithms have been tested with OpenSim 4.1. See the following link for installation: https://simtk.org/frs/?group_id=91 
+* Add the tool “Scripting with Matlab”. Get access to the functions of OpenSim from Matlab. See the following link for installation: https://simtk-confluence.stanford.edu:8443/display/OpenSim/Scripting+with+Matlab
+* Install Casadi. Open-source tool for nonlinear optimization and algorithm differentiation. See the following link for installation: https://web.casadi.org/
+<br>
+
+## Simulation framework
+Our simulation framework is composed of three main scripts: 
 * Calibration of Muscle Passive forces
 * Simulation Workflows: Muscle-driven, EMG-informed, and parameter personalization
 * Metabolic Energy Models
@@ -35,6 +46,7 @@ We implemented the equations for computing metabolic rates using six metabolic e
 
 ## Contact
 For further information or questions, feel free to reach me by email: ailp@kth.se
+
 
 
 
