@@ -1,0 +1,593 @@
+[2023-06-30 10:16:40.198] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 10:16:40.849] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 10:16:40.947] [info] AbstractTool IK_sub1_slow loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 10:16:41.006] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 10:16:41.138] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 10:16:41.224] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_slow.mot'.
+[2023-06-30 10:16:41.224] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_slow.mot (nr=159 nc=40)
+[2023-06-30 10:16:42.904] [info] Found 159 state vectors with time stamps ranging from 0.98 to 2.56.
+[2023-06-30 10:16:42.904] [info] Executing the analyses from 0.98 to 2.56...
+[2023-06-30 10:16:54.792] [info] Printing results of investigation IK_sub1_slow to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Results\effort_cal\MuscleAnalysis
+[2023-06-30 10:16:55.077] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 10:16:55.159] [info] AbstractTool IK_sub1_normal loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 10:16:55.220] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 10:16:55.350] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 10:16:55.430] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_normal.mot'.
+[2023-06-30 10:16:55.430] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_normal.mot (nr=119 nc=40)
+[2023-06-30 10:16:56.569] [info] Found 119 state vectors with time stamps ranging from 0.57 to 1.75.
+[2023-06-30 10:16:56.569] [info] Executing the analyses from 0.57 to 1.75...
+[2023-06-30 10:17:05.858] [info] Printing results of investigation IK_sub1_normal to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Results\effort_cal\MuscleAnalysis
+[2023-06-30 10:17:06.143] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 10:17:06.253] [info] AbstractTool IK_sub1_fast loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 10:17:06.333] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 10:17:06.518] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 10:17:06.607] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_fast.mot'.
+[2023-06-30 10:17:06.607] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_fast.mot (nr=100 nc=40)
+[2023-06-30 10:17:07.762] [info] Found 100 state vectors with time stamps ranging from 0.48 to 1.47.
+[2023-06-30 10:17:07.762] [info] Executing the analyses from 0.48 to 1.47...
+[2023-06-30 10:17:17.154] [info] Printing results of investigation IK_sub1_fast to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Results\effort_cal\MuscleAnalysis
+[2023-06-30 11:38:43.220] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 11:38:43.397] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 11:38:43.477] [info] AbstractTool IK_sub1_slow loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 11:38:43.539] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 11:38:43.670] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 11:38:43.751] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_slow.mot'.
+[2023-06-30 11:38:43.751] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_slow.mot (nr=159 nc=40)
+[2023-06-30 11:38:45.309] [info] Found 159 state vectors with time stamps ranging from 0.98 to 2.56.
+[2023-06-30 11:38:45.309] [info] Executing the analyses from 0.98 to 2.56...
+[2023-06-30 11:38:56.913] [info] Printing results of investigation IK_sub1_slow to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Results\emg_ten\MuscleAnalysis
+[2023-06-30 11:38:57.232] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 11:38:57.326] [info] AbstractTool IK_sub1_normal loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 11:38:57.392] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 11:38:57.523] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 11:38:57.602] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_normal.mot'.
+[2023-06-30 11:38:57.602] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_normal.mot (nr=119 nc=40)
+[2023-06-30 11:38:58.718] [info] Found 119 state vectors with time stamps ranging from 0.57 to 1.75.
+[2023-06-30 11:38:58.719] [info] Executing the analyses from 0.57 to 1.75...
+[2023-06-30 11:39:07.429] [info] Printing results of investigation IK_sub1_normal to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Results\emg_ten\MuscleAnalysis
+[2023-06-30 11:39:07.708] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 11:39:07.792] [info] AbstractTool IK_sub1_fast loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 11:39:07.860] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 11:39:08.003] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 11:39:08.094] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_fast.mot'.
+[2023-06-30 11:39:08.095] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_fast.mot (nr=100 nc=40)
+[2023-06-30 11:39:09.076] [info] Found 100 state vectors with time stamps ranging from 0.48 to 1.47.
+[2023-06-30 11:39:09.077] [info] Executing the analyses from 0.48 to 1.47...
+[2023-06-30 11:39:16.501] [info] Printing results of investigation IK_sub1_fast to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Results\emg_ten\MuscleAnalysis
+[2023-06-30 11:43:29.561] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 11:59:00.617] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 11:59:01.150] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 11:59:01.234] [info] AbstractTool IK_sub1_slow loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 11:59:01.291] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 11:59:01.425] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 11:59:01.503] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_slow.mot'.
+[2023-06-30 11:59:01.503] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_slow.mot (nr=159 nc=40)
+[2023-06-30 11:59:03.035] [info] Found 159 state vectors with time stamps ranging from 0.98 to 2.56.
+[2023-06-30 11:59:03.035] [info] Executing the analyses from 0.98 to 2.56...
+[2023-06-30 11:59:15.328] [info] Printing results of investigation IK_sub1_slow to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Results\effort_gen\MuscleAnalysis
+[2023-06-30 11:59:15.654] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 11:59:15.736] [info] AbstractTool IK_sub1_normal loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 11:59:15.794] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 11:59:15.929] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 11:59:16.006] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_normal.mot'.
+[2023-06-30 11:59:16.006] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_normal.mot (nr=119 nc=40)
+[2023-06-30 11:59:17.109] [info] Found 119 state vectors with time stamps ranging from 0.57 to 1.75.
+[2023-06-30 11:59:17.109] [info] Executing the analyses from 0.57 to 1.75...
+[2023-06-30 11:59:25.687] [info] Printing results of investigation IK_sub1_normal to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Results\effort_gen\MuscleAnalysis
+[2023-06-30 11:59:25.941] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 11:59:26.027] [info] AbstractTool IK_sub1_fast loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 11:59:26.092] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 11:59:26.224] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 11:59:26.299] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_fast.mot'.
+[2023-06-30 11:59:26.299] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_fast.mot (nr=100 nc=40)
+[2023-06-30 11:59:27.252] [info] Found 100 state vectors with time stamps ranging from 0.48 to 1.47.
+[2023-06-30 11:59:27.252] [info] Executing the analyses from 0.48 to 1.47...
+[2023-06-30 11:59:34.440] [info] Printing results of investigation IK_sub1_fast to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Results\effort_gen\MuscleAnalysis
+[2023-06-30 12:13:08.810] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 12:13:08.941] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 12:13:09.171] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 12:13:09.253] [info] AbstractTool TrialAnk_r_kne0hip0_kneBen15hip0_kneBen60hip0_rajagopalModel loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 12:13:09.309] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 12:13:09.438] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 12:13:09.526] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\TrialAnk_r_kne0hip0_kneBen15hip0_kneBen60hip0_rajagopalModel.mot'.
+[2023-06-30 12:13:09.526] [info] Old version storage/motion file encountered
+[2023-06-30 12:13:09.526] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\TrialAnk_r_kne0hip0_kneBen15hip0_kneBen60hip0_rajagopalModel.mot (nr=150 nc=4)
+[2023-06-30 12:13:09.526] [info] .. assuming rotations in Degrees..
+[2023-06-30 12:13:09.526] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+[2023-06-30 12:13:09.526] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/patellofemoral_r/knee_angle_r_beta/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/walker_knee_l/knee_angle_l/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/patellofemoral_l/knee_angle_l_beta/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_extension/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_bending/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_rotation/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_flex_r/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_add_r/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_rot_r/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/elbow_r/elbow_flex_r/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/radioulnar_r/pro_sup_r/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_r/wrist_flex_r/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_r/wrist_dev_r/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_flex_l/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_add_l/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_rot_l/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/elbow_l/elbow_flex_l/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/radioulnar_l/pro_sup_l/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_l/wrist_flex_l/value in storage object.
+[2023-06-30 12:13:09.527] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_l/wrist_dev_l/value in storage object.
+[2023-06-30 12:13:13.036] [info] Found 150 state vectors with time stamps ranging from 0.0 to 2.99.
+[2023-06-30 12:13:13.036] [info] Executing the analyses from 0.0 to 2.99...
+[2023-06-30 12:13:18.064] [info] Printing results of investigation TrialAnk_r_kne0hip0_kneBen15hip0_kneBen60hip0_rajagopalModel to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\CalibrationOutcome\MuscleAnalysis
+[2023-06-30 12:17:24.287] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 12:17:24.414] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 12:18:02.167] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 12:18:02.297] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 12:20:08.067] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 12:20:08.197] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 12:22:03.699] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 12:22:03.828] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 12:22:21.192] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 12:26:17.400] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 12:26:17.537] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 12:26:34.949] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 12:28:44.907] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 12:28:45.077] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 12:28:45.152] [info] AbstractTool IK_sub1_slow loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 12:28:45.212] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 12:28:45.341] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 12:28:45.420] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_slow.mot'.
+[2023-06-30 12:28:45.420] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_slow.mot (nr=159 nc=40)
+[2023-06-30 12:28:46.925] [info] Found 159 state vectors with time stamps ranging from 0.98 to 2.56.
+[2023-06-30 12:28:46.925] [info] Executing the analyses from 0.98 to 2.56...
+[2023-06-30 12:28:58.684] [info] Printing results of investigation IK_sub1_slow to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Results\effort_gen\MuscleAnalysis
+[2023-06-30 12:28:59.062] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 12:28:59.153] [info] AbstractTool IK_sub1_normal loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 12:28:59.249] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 12:28:59.393] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 12:28:59.474] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_normal.mot'.
+[2023-06-30 12:28:59.474] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_normal.mot (nr=119 nc=40)
+[2023-06-30 12:29:00.788] [info] Found 119 state vectors with time stamps ranging from 0.57 to 1.75.
+[2023-06-30 12:29:00.788] [info] Executing the analyses from 0.57 to 1.75...
+[2023-06-30 12:29:10.468] [info] Printing results of investigation IK_sub1_normal to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Results\effort_gen\MuscleAnalysis
+[2023-06-30 12:29:45.459] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 12:36:11.854] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 13:27:43.587] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 13:34:19.298] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 13:37:25.006] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 13:37:25.558] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 13:37:25.641] [info] AbstractTool IK_sub1_slow loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 13:37:25.696] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 13:37:25.825] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 13:37:25.903] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_slow.mot'.
+[2023-06-30 13:37:25.903] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_slow.mot (nr=159 nc=40)
+[2023-06-30 13:37:27.672] [info] Found 159 state vectors with time stamps ranging from 0.98 to 2.56.
+[2023-06-30 13:37:27.673] [info] Executing the analyses from 0.98 to 2.56...
+[2023-06-30 13:37:39.151] [info] Printing results of investigation IK_sub1_slow to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Results\effort_gen\MuscleAnalysis
+[2023-06-30 13:37:39.478] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 13:37:39.564] [info] AbstractTool IK_sub1_normal loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 13:37:39.639] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 13:37:39.770] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 13:37:39.848] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_normal.mot'.
+[2023-06-30 13:37:39.848] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_normal.mot (nr=119 nc=40)
+[2023-06-30 13:37:40.948] [info] Found 119 state vectors with time stamps ranging from 0.57 to 1.75.
+[2023-06-30 13:37:40.948] [info] Executing the analyses from 0.57 to 1.75...
+[2023-06-30 13:37:49.705] [info] Printing results of investigation IK_sub1_normal to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Results\effort_gen\MuscleAnalysis
+[2023-06-30 13:37:49.965] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 13:37:50.048] [info] AbstractTool IK_sub1_fast loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 13:37:50.105] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 13:37:50.237] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 13:37:50.318] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_fast.mot'.
+[2023-06-30 13:37:50.318] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_fast.mot (nr=100 nc=40)
+[2023-06-30 13:37:51.277] [info] Found 100 state vectors with time stamps ranging from 0.48 to 1.47.
+[2023-06-30 13:37:51.277] [info] Executing the analyses from 0.48 to 1.47...
+[2023-06-30 13:37:58.745] [info] Printing results of investigation IK_sub1_fast to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Results\effort_gen\MuscleAnalysis
+[2023-06-30 13:42:12.967] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 13:49:42.626] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 13:49:42.755] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 13:51:00.946] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 13:51:01.071] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 13:52:25.889] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 13:52:26.014] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 13:54:17.815] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 13:54:17.941] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:00:38.433] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:00:38.559] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:03:09.440] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:03:09.564] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:03:30.043] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:04:07.990] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:04:08.115] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:10:24.051] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:10:24.181] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:12:29.748] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:12:29.874] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:12:49.700] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:15:04.514] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:15:04.638] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:15:24.459] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:16:06.447] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:16:06.609] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:16:06.683] [info] AbstractTool IK_sub1_slow loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:16:06.738] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:16:06.865] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 14:16:06.943] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_slow.mot'.
+[2023-06-30 14:16:06.943] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_slow.mot (nr=159 nc=40)
+[2023-06-30 14:16:08.442] [info] Found 159 state vectors with time stamps ranging from 0.98 to 2.56.
+[2023-06-30 14:16:08.442] [info] Executing the analyses from 0.98 to 2.56...
+[2023-06-30 14:16:20.002] [info] Printing results of investigation IK_sub1_slow to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Results\effort_gen\MuscleAnalysis
+[2023-06-30 14:16:20.315] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:16:20.395] [info] AbstractTool IK_sub1_normal loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:16:20.455] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:16:20.587] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 14:16:20.665] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_normal.mot'.
+[2023-06-30 14:16:20.666] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_normal.mot (nr=119 nc=40)
+[2023-06-30 14:16:21.751] [info] Found 119 state vectors with time stamps ranging from 0.57 to 1.75.
+[2023-06-30 14:16:21.751] [info] Executing the analyses from 0.57 to 1.75...
+[2023-06-30 14:16:30.234] [info] Printing results of investigation IK_sub1_normal to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Results\effort_gen\MuscleAnalysis
+[2023-06-30 14:16:30.500] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:16:30.583] [info] AbstractTool IK_sub1_fast loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:16:30.647] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:16:30.776] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 14:16:30.854] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_fast.mot'.
+[2023-06-30 14:16:30.855] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_fast.mot (nr=100 nc=40)
+[2023-06-30 14:16:31.804] [info] Found 100 state vectors with time stamps ranging from 0.48 to 1.47.
+[2023-06-30 14:16:31.804] [info] Executing the analyses from 0.48 to 1.47...
+[2023-06-30 14:16:39.099] [info] Printing results of investigation IK_sub1_fast to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Results\effort_gen\MuscleAnalysis
+[2023-06-30 14:18:10.077] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:18:10.272] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:18:10.368] [info] AbstractTool IK_sub1_slow loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:18:10.441] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:18:10.573] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 14:18:10.652] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_slow.mot'.
+[2023-06-30 14:18:10.652] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_slow.mot (nr=159 nc=40)
+[2023-06-30 14:18:12.171] [info] Found 159 state vectors with time stamps ranging from 0.98 to 2.56.
+[2023-06-30 14:18:12.171] [info] Executing the analyses from 0.98 to 2.56...
+[2023-06-30 14:18:23.964] [info] Printing results of investigation IK_sub1_slow to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Results\effort_gen\MuscleAnalysis
+[2023-06-30 14:18:24.267] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:18:24.347] [info] AbstractTool IK_sub1_normal loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:18:24.402] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:18:24.529] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 14:18:24.605] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_normal.mot'.
+[2023-06-30 14:18:24.605] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_normal.mot (nr=119 nc=40)
+[2023-06-30 14:18:25.702] [info] Found 119 state vectors with time stamps ranging from 0.57 to 1.75.
+[2023-06-30 14:18:25.702] [info] Executing the analyses from 0.57 to 1.75...
+[2023-06-30 14:18:34.201] [info] Printing results of investigation IK_sub1_normal to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Results\effort_gen\MuscleAnalysis
+[2023-06-30 14:18:34.461] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:18:34.542] [info] AbstractTool IK_sub1_fast loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:18:34.598] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:18:34.725] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 14:18:34.801] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_fast.mot'.
+[2023-06-30 14:18:34.801] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_fast.mot (nr=100 nc=40)
+[2023-06-30 14:18:35.747] [info] Found 100 state vectors with time stamps ranging from 0.48 to 1.47.
+[2023-06-30 14:18:35.747] [info] Executing the analyses from 0.48 to 1.47...
+[2023-06-30 14:18:42.923] [info] Printing results of investigation IK_sub1_fast to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Results\effort_gen\MuscleAnalysis
+[2023-06-30 14:21:16.064] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:21:16.192] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:21:16.371] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:21:16.445] [info] AbstractTool TrialAnk_r_kne0hip0_kneBen15hip0_kneBen60hip0_rajagopalModel loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:21:16.498] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:21:16.624] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 14:21:16.703] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\TrialAnk_r_kne0hip0_kneBen15hip0_kneBen60hip0_rajagopalModel.mot'.
+[2023-06-30 14:21:16.704] [info] Old version storage/motion file encountered
+[2023-06-30 14:21:16.704] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\TrialAnk_r_kne0hip0_kneBen15hip0_kneBen60hip0_rajagopalModel.mot (nr=150 nc=4)
+[2023-06-30 14:21:16.704] [info] .. assuming rotations in Degrees..
+[2023-06-30 14:21:16.704] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+[2023-06-30 14:21:16.704] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+[2023-06-30 14:21:16.704] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+[2023-06-30 14:21:16.704] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+[2023-06-30 14:21:16.704] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+[2023-06-30 14:21:16.704] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+[2023-06-30 14:21:16.704] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+[2023-06-30 14:21:16.704] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+[2023-06-30 14:21:16.704] [warning] Model::formCompleteStorages():  Did not find column /jointset/patellofemoral_r/knee_angle_r_beta/value in storage object.
+[2023-06-30 14:21:16.704] [warning] Model::formCompleteStorages():  Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+[2023-06-30 14:21:16.704] [warning] Model::formCompleteStorages():  Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+[2023-06-30 14:21:16.704] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+[2023-06-30 14:21:16.704] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+[2023-06-30 14:21:16.704] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+[2023-06-30 14:21:16.704] [warning] Model::formCompleteStorages():  Did not find column /jointset/walker_knee_l/knee_angle_l/value in storage object.
+[2023-06-30 14:21:16.704] [warning] Model::formCompleteStorages():  Did not find column /jointset/patellofemoral_l/knee_angle_l_beta/value in storage object.
+[2023-06-30 14:21:16.704] [warning] Model::formCompleteStorages():  Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+[2023-06-30 14:21:16.704] [warning] Model::formCompleteStorages():  Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+[2023-06-30 14:21:16.704] [warning] Model::formCompleteStorages():  Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+[2023-06-30 14:21:16.704] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_extension/value in storage object.
+[2023-06-30 14:21:16.705] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_bending/value in storage object.
+[2023-06-30 14:21:16.705] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_rotation/value in storage object.
+[2023-06-30 14:21:16.705] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_flex_r/value in storage object.
+[2023-06-30 14:21:16.705] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_add_r/value in storage object.
+[2023-06-30 14:21:16.705] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_rot_r/value in storage object.
+[2023-06-30 14:21:16.705] [warning] Model::formCompleteStorages():  Did not find column /jointset/elbow_r/elbow_flex_r/value in storage object.
+[2023-06-30 14:21:16.705] [warning] Model::formCompleteStorages():  Did not find column /jointset/radioulnar_r/pro_sup_r/value in storage object.
+[2023-06-30 14:21:16.705] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_r/wrist_flex_r/value in storage object.
+[2023-06-30 14:21:16.705] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_r/wrist_dev_r/value in storage object.
+[2023-06-30 14:21:16.705] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_flex_l/value in storage object.
+[2023-06-30 14:21:16.705] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_add_l/value in storage object.
+[2023-06-30 14:21:16.705] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_rot_l/value in storage object.
+[2023-06-30 14:21:16.705] [warning] Model::formCompleteStorages():  Did not find column /jointset/elbow_l/elbow_flex_l/value in storage object.
+[2023-06-30 14:21:16.705] [warning] Model::formCompleteStorages():  Did not find column /jointset/radioulnar_l/pro_sup_l/value in storage object.
+[2023-06-30 14:21:16.705] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_l/wrist_flex_l/value in storage object.
+[2023-06-30 14:21:16.705] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_l/wrist_dev_l/value in storage object.
+[2023-06-30 14:21:19.991] [info] Found 150 state vectors with time stamps ranging from 0.0 to 2.99.
+[2023-06-30 14:21:19.991] [info] Executing the analyses from 0.0 to 2.99...
+[2023-06-30 14:21:24.890] [info] Printing results of investigation TrialAnk_r_kne0hip0_kneBen15hip0_kneBen60hip0_rajagopalModel to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\CalibrationOutcome\MuscleAnalysis
+[2023-06-30 14:21:25.102] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:21:25.186] [info] AbstractTool TrialHip_r_kneBen15ank0_kneBen60ank0_rajagopalModel loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:21:25.242] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:21:25.373] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 14:21:25.453] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\TrialHip_r_kneBen15ank0_kneBen60ank0_rajagopalModel.mot'.
+[2023-06-30 14:21:25.453] [info] Old version storage/motion file encountered
+[2023-06-30 14:21:25.453] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\TrialHip_r_kneBen15ank0_kneBen60ank0_rajagopalModel.mot (nr=100 nc=4)
+[2023-06-30 14:21:25.453] [info] .. assuming rotations in Degrees..
+[2023-06-30 14:21:25.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+[2023-06-30 14:21:25.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+[2023-06-30 14:21:25.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+[2023-06-30 14:21:25.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+[2023-06-30 14:21:25.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+[2023-06-30 14:21:25.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+[2023-06-30 14:21:25.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+[2023-06-30 14:21:25.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+[2023-06-30 14:21:25.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/patellofemoral_r/knee_angle_r_beta/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/walker_knee_l/knee_angle_l/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/patellofemoral_l/knee_angle_l_beta/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_extension/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_bending/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_rotation/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_flex_r/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_add_r/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_rot_r/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/elbow_r/elbow_flex_r/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/radioulnar_r/pro_sup_r/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_r/wrist_flex_r/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_r/wrist_dev_r/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_flex_l/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_add_l/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_rot_l/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/elbow_l/elbow_flex_l/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/radioulnar_l/pro_sup_l/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_l/wrist_flex_l/value in storage object.
+[2023-06-30 14:21:25.454] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_l/wrist_dev_l/value in storage object.
+[2023-06-30 14:21:27.882] [info] Found 100 state vectors with time stamps ranging from 0.0 to 1.99.
+[2023-06-30 14:21:27.882] [info] Executing the analyses from 0.0 to 1.99...
+[2023-06-30 14:21:31.374] [info] Printing results of investigation TrialHip_r_kneBen15ank0_kneBen60ank0_rajagopalModel to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\CalibrationOutcome\MuscleAnalysis
+[2023-06-30 14:21:31.557] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:21:31.650] [info] AbstractTool TrialKne_r_ankDor20hip0_ankPla15hip0_ankDor20hipExt15_rajagopalModel loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:21:31.711] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:21:31.841] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 14:21:31.917] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\TrialKne_r_ankDor20hip0_ankPla15hip0_ankDor20hipExt15_rajagopalModel.mot'.
+[2023-06-30 14:21:31.917] [info] Old version storage/motion file encountered
+[2023-06-30 14:21:31.917] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\TrialKne_r_ankDor20hip0_ankPla15hip0_ankDor20hipExt15_rajagopalModel.mot (nr=150 nc=4)
+[2023-06-30 14:21:31.917] [info] .. assuming rotations in Degrees..
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/patellofemoral_r/knee_angle_r_beta/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/walker_knee_l/knee_angle_l/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/patellofemoral_l/knee_angle_l_beta/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_extension/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_bending/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_rotation/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_flex_r/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_add_r/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_rot_r/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/elbow_r/elbow_flex_r/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/radioulnar_r/pro_sup_r/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_r/wrist_flex_r/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_r/wrist_dev_r/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_flex_l/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_add_l/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_rot_l/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/elbow_l/elbow_flex_l/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/radioulnar_l/pro_sup_l/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_l/wrist_flex_l/value in storage object.
+[2023-06-30 14:21:31.918] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_l/wrist_dev_l/value in storage object.
+[2023-06-30 14:21:35.550] [info] Found 150 state vectors with time stamps ranging from 0.0 to 2.99.
+[2023-06-30 14:21:35.550] [info] Executing the analyses from 0.0 to 2.99...
+[2023-06-30 14:21:44.492] [info] Printing results of investigation TrialKne_r_ankDor20hip0_ankPla15hip0_ankDor20hipExt15_rajagopalModel to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\CalibrationOutcome\MuscleAnalysis
+[2023-06-30 14:22:04.278] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 14:39:35.660] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:39:35.833] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:39:35.907] [info] AbstractTool IK_sub1_slow loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:39:35.963] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:39:36.090] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 14:39:36.165] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_slow.mot'.
+[2023-06-30 14:39:36.166] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_slow.mot (nr=159 nc=40)
+[2023-06-30 14:39:37.658] [info] Found 159 state vectors with time stamps ranging from 0.98 to 2.56.
+[2023-06-30 14:39:37.658] [info] Executing the analyses from 0.98 to 2.56...
+[2023-06-30 14:39:49.325] [info] Printing results of investigation IK_sub1_slow to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Results\effort_gen\MuscleAnalysis
+[2023-06-30 14:39:49.648] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:39:49.735] [info] AbstractTool IK_sub1_normal loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:39:49.803] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:39:49.934] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 14:39:50.013] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_normal.mot'.
+[2023-06-30 14:39:50.013] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_normal.mot (nr=119 nc=40)
+[2023-06-30 14:39:51.114] [info] Found 119 state vectors with time stamps ranging from 0.57 to 1.75.
+[2023-06-30 14:39:51.114] [info] Executing the analyses from 0.57 to 1.75...
+[2023-06-30 14:40:00.272] [info] Printing results of investigation IK_sub1_normal to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Results\effort_gen\MuscleAnalysis
+[2023-06-30 14:40:00.539] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:40:00.629] [info] AbstractTool IK_sub1_fast loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:40:00.691] [info] Loaded model 1_scaled_rajagopal2022 from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\1_scaledHMK_rajagopal2022_MIF2.osim
+[2023-06-30 14:40:00.819] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 14:40:00.897] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_fast.mot'.
+[2023-06-30 14:40:00.897] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Data\IK_sub1_fast.mot (nr=100 nc=40)
+[2023-06-30 14:40:01.860] [info] Found 100 state vectors with time stamps ranging from 0.48 to 1.47.
+[2023-06-30 14:40:01.860] [info] Executing the analyses from 0.48 to 1.47...
+[2023-06-30 14:40:09.325] [info] Printing results of investigation IK_sub1_fast to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Publication\Results\effort_gen\MuscleAnalysis
+[2023-06-30 15:15:57.396] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 15:15:57.542] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 15:15:57.785] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 15:15:57.873] [info] AbstractTool TrialAnk_r_kne0hip0_kneBen15hip0_kneBen60hip0_rajagopalModel loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 15:15:57.932] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 15:15:58.063] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 15:15:58.145] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Code and example\Data\TrialAnk_r_kne0hip0_kneBen15hip0_kneBen60hip0_rajagopalModel.mot'.
+[2023-06-30 15:15:58.145] [info] Old version storage/motion file encountered
+[2023-06-30 15:15:58.145] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Code and example\Data\TrialAnk_r_kne0hip0_kneBen15hip0_kneBen60hip0_rajagopalModel.mot (nr=150 nc=4)
+[2023-06-30 15:15:58.145] [info] .. assuming rotations in Degrees..
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/patellofemoral_r/knee_angle_r_beta/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/walker_knee_l/knee_angle_l/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/patellofemoral_l/knee_angle_l_beta/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_extension/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_bending/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_rotation/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_flex_r/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_add_r/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_rot_r/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/elbow_r/elbow_flex_r/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/radioulnar_r/pro_sup_r/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_r/wrist_flex_r/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_r/wrist_dev_r/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_flex_l/value in storage object.
+[2023-06-30 15:15:58.146] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_add_l/value in storage object.
+[2023-06-30 15:15:58.147] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_rot_l/value in storage object.
+[2023-06-30 15:15:58.147] [warning] Model::formCompleteStorages():  Did not find column /jointset/elbow_l/elbow_flex_l/value in storage object.
+[2023-06-30 15:15:58.147] [warning] Model::formCompleteStorages():  Did not find column /jointset/radioulnar_l/pro_sup_l/value in storage object.
+[2023-06-30 15:15:58.147] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_l/wrist_flex_l/value in storage object.
+[2023-06-30 15:15:58.147] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_l/wrist_dev_l/value in storage object.
+[2023-06-30 15:16:01.422] [info] Found 150 state vectors with time stamps ranging from 0.0 to 2.99.
+[2023-06-30 15:16:01.423] [info] Executing the analyses from 0.0 to 2.99...
+[2023-06-30 15:16:06.293] [info] Printing results of investigation TrialAnk_r_kne0hip0_kneBen15hip0_kneBen60hip0_rajagopalModel to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Code and example\CalibrationOutcome\MuscleAnalysis
+[2023-06-30 15:16:06.499] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 15:16:06.581] [info] AbstractTool TrialHip_r_kneBen15ank0_kneBen60ank0_rajagopalModel loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 15:16:06.640] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 15:16:06.769] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 15:16:06.854] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Code and example\Data\TrialHip_r_kneBen15ank0_kneBen60ank0_rajagopalModel.mot'.
+[2023-06-30 15:16:06.854] [info] Old version storage/motion file encountered
+[2023-06-30 15:16:06.854] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Code and example\Data\TrialHip_r_kneBen15ank0_kneBen60ank0_rajagopalModel.mot (nr=100 nc=4)
+[2023-06-30 15:16:06.854] [info] .. assuming rotations in Degrees..
+[2023-06-30 15:16:06.854] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+[2023-06-30 15:16:06.854] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+[2023-06-30 15:16:06.854] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+[2023-06-30 15:16:06.854] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+[2023-06-30 15:16:06.854] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+[2023-06-30 15:16:06.854] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+[2023-06-30 15:16:06.854] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+[2023-06-30 15:16:06.854] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+[2023-06-30 15:16:06.854] [warning] Model::formCompleteStorages():  Did not find column /jointset/patellofemoral_r/knee_angle_r_beta/value in storage object.
+[2023-06-30 15:16:06.854] [warning] Model::formCompleteStorages():  Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+[2023-06-30 15:16:06.854] [warning] Model::formCompleteStorages():  Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+[2023-06-30 15:16:06.854] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+[2023-06-30 15:16:06.855] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+[2023-06-30 15:16:06.855] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+[2023-06-30 15:16:06.855] [warning] Model::formCompleteStorages():  Did not find column /jointset/walker_knee_l/knee_angle_l/value in storage object.
+[2023-06-30 15:16:06.855] [warning] Model::formCompleteStorages():  Did not find column /jointset/patellofemoral_l/knee_angle_l_beta/value in storage object.
+[2023-06-30 15:16:06.855] [warning] Model::formCompleteStorages():  Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+[2023-06-30 15:16:06.855] [warning] Model::formCompleteStorages():  Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+[2023-06-30 15:16:06.855] [warning] Model::formCompleteStorages():  Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+[2023-06-30 15:16:06.855] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_extension/value in storage object.
+[2023-06-30 15:16:06.855] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_bending/value in storage object.
+[2023-06-30 15:16:06.855] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_rotation/value in storage object.
+[2023-06-30 15:16:06.855] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_flex_r/value in storage object.
+[2023-06-30 15:16:06.855] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_add_r/value in storage object.
+[2023-06-30 15:16:06.855] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_rot_r/value in storage object.
+[2023-06-30 15:16:06.855] [warning] Model::formCompleteStorages():  Did not find column /jointset/elbow_r/elbow_flex_r/value in storage object.
+[2023-06-30 15:16:06.855] [warning] Model::formCompleteStorages():  Did not find column /jointset/radioulnar_r/pro_sup_r/value in storage object.
+[2023-06-30 15:16:06.855] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_r/wrist_flex_r/value in storage object.
+[2023-06-30 15:16:06.855] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_r/wrist_dev_r/value in storage object.
+[2023-06-30 15:16:06.855] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_flex_l/value in storage object.
+[2023-06-30 15:16:06.855] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_add_l/value in storage object.
+[2023-06-30 15:16:06.855] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_rot_l/value in storage object.
+[2023-06-30 15:16:06.855] [warning] Model::formCompleteStorages():  Did not find column /jointset/elbow_l/elbow_flex_l/value in storage object.
+[2023-06-30 15:16:06.855] [warning] Model::formCompleteStorages():  Did not find column /jointset/radioulnar_l/pro_sup_l/value in storage object.
+[2023-06-30 15:16:06.855] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_l/wrist_flex_l/value in storage object.
+[2023-06-30 15:16:06.855] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_l/wrist_dev_l/value in storage object.
+[2023-06-30 15:16:09.324] [info] Found 100 state vectors with time stamps ranging from 0.0 to 1.99.
+[2023-06-30 15:16:09.324] [info] Executing the analyses from 0.0 to 1.99...
+[2023-06-30 15:16:12.827] [info] Printing results of investigation TrialHip_r_kneBen15ank0_kneBen60ank0_rajagopalModel to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Code and example\CalibrationOutcome\MuscleAnalysis
+[2023-06-30 15:16:13.006] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 15:16:13.088] [info] AbstractTool TrialKne_r_ankDor20hip0_ankPla15hip0_ankDor20hipExt15_rajagopalModel loading model C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 15:16:13.149] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 15:16:13.278] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 15:16:13.354] [info] Loading coordinates from file 'C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Code and example\Data\TrialKne_r_ankDor20hip0_ankPla15hip0_ankDor20hipExt15_rajagopalModel.mot'.
+[2023-06-30 15:16:13.354] [info] Old version storage/motion file encountered
+[2023-06-30 15:16:13.354] [info] Storage: read data file = C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Code and example\Data\TrialKne_r_ankDor20hip0_ankPla15hip0_ankDor20hipExt15_rajagopalModel.mot (nr=150 nc=4)
+[2023-06-30 15:16:13.354] [info] .. assuming rotations in Degrees..
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/patellofemoral_r/knee_angle_r_beta/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/walker_knee_l/knee_angle_l/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/patellofemoral_l/knee_angle_l_beta/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_extension/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_bending/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_rotation/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_flex_r/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_add_r/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_rot_r/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/elbow_r/elbow_flex_r/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/radioulnar_r/pro_sup_r/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_r/wrist_flex_r/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_r/wrist_dev_r/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_flex_l/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_add_l/value in storage object.
+[2023-06-30 15:16:13.355] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_rot_l/value in storage object.
+[2023-06-30 15:16:13.356] [warning] Model::formCompleteStorages():  Did not find column /jointset/elbow_l/elbow_flex_l/value in storage object.
+[2023-06-30 15:16:13.356] [warning] Model::formCompleteStorages():  Did not find column /jointset/radioulnar_l/pro_sup_l/value in storage object.
+[2023-06-30 15:16:13.356] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_l/wrist_flex_l/value in storage object.
+[2023-06-30 15:16:13.356] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_l/wrist_dev_l/value in storage object.
+[2023-06-30 15:16:17.013] [info] Found 150 state vectors with time stamps ranging from 0.0 to 2.99.
+[2023-06-30 15:16:17.013] [info] Executing the analyses from 0.0 to 2.99...
+[2023-06-30 15:16:23.780] [info] Printing results of investigation TrialKne_r_ankDor20hip0_ankPla15hip0_ankDor20hipExt15_rajagopalModel to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Code and example\CalibrationOutcome\MuscleAnalysis
+[2023-06-30 15:16:43.671] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
