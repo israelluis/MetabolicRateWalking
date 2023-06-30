@@ -47,8 +47,8 @@ We implemented the equations for computing metabolic rates using six metabolic e
 <br>
 
 ## Run example
-The scripts can be adapted to your research. We facilitate an example and experimental data for each of the scripts; see the folder “code and example.” The three scripts combined allow you to compute the lower limb’s metabolic rate estimations using a simulation workflow and metabolic energy model used in our study. In order to obtain such a result, you must follow the following steps:
-1) Follow the “Installation instruction.” 
+The scripts can be adapted to your research. We facilitate an example and experimental data for each of the scripts; see the folder “Code and example.” The three scripts combined allow you to compute the lower limb’s metabolic rate estimations using a simulation workflow and metabolic energy model used in our study. In order to obtain such a result, you must follow the following steps:
+1) Follow the “Installation instruction.” Also, verify that Casadi and the main folder (Code and example) paths are added to your current Matlab session.
 2) Run the script “Calibration_passiveForces.” This script serves to calibrate passive force parameters in a generic musculoskeletal model. As a result, it will provide a summary of the calibrated parameters, store the results, and plot the graph: experimental, calibrated, and generic passive torque-angle curves.
 3) Run the script “Pipeline_simulationFramework.” This script serves to select the simulation workflow you want to use. It specifies the features for the simulation and uses the function “setupAndRun” to run the code. As a result, it will provide multiple graphs with information about the muscle activations, normalized fiber length, fiber length, and reserve actuators. Note: You must run “Calibration_passiveForces” first, as this script requires generic or calibrated passive parameters.
 4) Run the script “Compute_metabolicRates.” This script serves to compute metabolic rates based on the muscle excitation, states, and state derivatives previously obtained from the MRS. We provide the implementation of various metabolic energy models; you can select any. As a result, it will provide estimates of the metabolic rates, work rates, and heat rates per muscle. Note: You need to run “Pipeline_simulationFramework,” as this script requires muscle-tendon states to compute the metabolic rates.
@@ -62,6 +62,7 @@ We provide a scaled musculoskeletal model and motion data: inverse kinematics, i
 
 ## Contact 
 For further information or questions, feel free to reach me by email: ailp@kth.se
+
 
 
 
