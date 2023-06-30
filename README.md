@@ -8,13 +8,15 @@ This a work in collaboration with researchers from KULeaven. The scripts are wri
 ## Description
 In our study, we calibrated the muscle passive force-length relationships, personalized the tendon compliance, and informed the actuator’s control, i.e., muscle excitation, with recorded EMGs to evaluate how various simulation workflows, each with increasing levels of personalization, improve the estimates of muscle excitations and fiber lengths compared to EMGs and ultrasound imaging, respectively. Later, based on the simulation workflow with the best estimation of the muscle-tendon states, i.e., the highest biofidelity, we evaluate which metabolic cost model from the literature provides the best estimates of the metabolic cost compared to recorded measurements. Overall, we observed that realistic estimations of muscle activations, muscle fiber lengths, and metabolic rates are achieved by accounting for an adequate representation of passive forces, particularly at the knee and hip, a highly compliant Achilles and patellar tendon, and metabolic cost models with heat rates based on fiber-type composition and null or small eccentric contraction cost.
 In this repository, we share the computational tools to implement the simulations performed in our study.
-<br>
+ <br>
 
 ## Installation instruction
 You need to use Matlab to run the scripts, and download three software packages:
 * Install Opensim. Open-source software for musculoskeletal modelling and simulations, our algorithms have been tested with OpenSim 4.1. See the following link for installation: https://simtk.org/frs/?group_id=91 
 * Add the tool “Scripting with Matlab”. Get access to the functions of OpenSim from Matlab. See the following link for installation: https://simtk-confluence.stanford.edu:8443/display/OpenSim/Scripting+with+Matlab
-* Install Casadi. Open-source tool for nonlinear optimization and algorithm differentiation. See the following link for installation: https://web.casadi.org/
+* Install Casadi. Open-source tool for nonlinear optimization and algorithm differentiation. See the following link for installation: https://web.casadi.org/ 
+<br>
+This code is based on the Muscle Redundancy Solver: https://github.com/KULeuvenNeuromechanics/MuscleRedundancySolver . It might be a good idea first to run the example they provided to verify that your installation is correct, yet it is not mandatory.
 <br>
 
 ## Simulation framework
@@ -28,7 +30,7 @@ We used the generic musculoskeletal model proposed by Rajagopal et al. 2019 for 
 Achilles and patellar tendons are known to be highly compliant and are suggested to play a key role in muscle energetics. We formulated an optimization routine to personalize Achilles and patellar tendon such that the simulated torque from the muscle-tendon actuators informed with EMGs better matches the inverse dynamic solution. The control of the nine muscles, i.e., muscle excitations, was constraint with recorded EMGs: biceps femoris long head, semitendinosus, vastus lateralis, intermedius, and medialis, tibialis anterior, gastrocnemius lateralis, and medialis, and soleus. Achilles and quadriceps tendon stiffnesses were added as design variables and optimized using various gait cycles simultaneously. 
 <br>
 
-This script is derived from the implementation of the muscle redundancy solver from KULeuvenNeuromechanics. For more information about such computational tool, you can refer to their repository: https://github.com/KULeuvenNeuromechanics/MuscleRedundancySolver
+This script is derived from the implementation of the muscle redundancy solver from KULeuvenNeuromechanics. For more information about such computational tool, you can refer to their repository.
 <br>
 
 Our implementation differs in two aspects:
@@ -44,8 +46,24 @@ We implemented the equations for computing metabolic rates using six metabolic e
 * Uchida et al. 2016. Stretching Your Energetic Budget: How Tendon Compliance Affects the Metabolic Cost of Running (UC16)
 <br>
 
-## Contact
+## Run example
+The scripts can be adapted to your research. We facilitate an example and experimental data for each of the scripts; see the folder “code and example.” The three scripts combined allow you to compute the lower limb’s metabolic rate estimations using a simulation workflow and metabolic energy model used in our study. In order to obtain such a result, you must follow the following steps:
+1) Follow the “Installation instruction.” 
+2) Run the script “Calibration_passiveForces.” This script serves to calibrate passive force parameters in a generic musculoskeletal model. As a result, it will provide a summary of the calibrated parameters, store the results, and plot the graph: experimental, calibrated, and generic passive torque-angle curves.
+3) Run the script “Pipeline_simulationFramework.” This script serves to select the simulation workflow you want to use. It specifies the features for the simulation and uses the function “setupAndRun” to run the code. As a result, it will provide multiple graphs with information about the muscle activations, normalized fiber length, fiber length, and reserve actuators. Note: You must run “Calibration_passiveForces” first, as this script requires generic or calibrated passive parameters.
+4) Run the script “Compute_metabolicRates.” This script serves to compute metabolic rates based on the muscle excitation, states, and state derivatives previously obtained from the MRS. We provide the implementation of various metabolic energy models; you can select any. As a result, it will provide estimates of the metabolic rates, work rates, and heat rates per muscle. Note: You need to run “Pipeline_simulationFramework,” as this script requires muscle-tendon states to compute the metabolic rates.
+<br>
+Also, each script provides a description of the computation performed.
+<br>
+
+#### About the experimental data 
+We provide a scaled musculoskeletal model and motion data: inverse kinematics, inverse dynamics, and EMGs of a subject walking at slow, normal, and fast walking speeds.  Please take a look at our study for more details.
+<br>
+
+## Contact 
 For further information or questions, feel free to reach me by email: ailp@kth.se
+
+
 
 
 
