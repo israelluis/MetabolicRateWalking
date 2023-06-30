@@ -34,7 +34,7 @@ This script is derived from the implementation of the muscle redundancy solver f
 <br>
 
 Our implementation differs in two aspects:
-* We added constraints to couple the normalized tendon stiffness among muscles within the same muscle function group. In our case, we coupled the gastrocnemius medialis, lateralis, and soleus at the ankle joint and vastus lateralis, medialis, and intermedius at the knee joint.
+* We added constraints to couple the EMG scaling factor among muscles within the same muscle function group. In our case, we coupled the gastrocnemius medialis and lateralis at the ankle joint and vastus lateralis, medialis, and intermedius at the knee joint.
 * We modify the function “getForceLengthVelocityProperties” to allow the customization of the muscle passive forces.
 #### Metabolic Energy Models
 We implemented the equations for computing metabolic rates using six metabolic energy models: 
