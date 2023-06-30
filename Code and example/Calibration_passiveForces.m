@@ -28,9 +28,9 @@ Misc.model_path  = fullfile(DataPath,'Rajagopal2015_passiveCal_hipAbdMoved.osim'
 Misc.OutPath     = fullfile(MainPath,'CalibrationOutcome');                         % folder to store results
 
 % data based on Silder2007 (IDENTIFICATION OF PASSIVE ELASTIC JOINT MOMENT-ANGLE RELATIONSHIPS IN THE LOWER EXTREMITY, )
-ank_file_name=fullfile(DataPath,['TrialAnk_' side_sel '_kne0hip0_kneBen15hip0_kneBen60hip0_' model_conf{:} 'Model']);
-hip_file_name=fullfile(DataPath,['TrialHip_' side_sel '_kneBen15ank0_kneBen60ank0_' model_conf{:} 'Model']);
-kne_file_name=fullfile(DataPath,['TrialKne_' side_sel '_ankDor20hip0_ankPla15hip0_ankDor20hipExt15_' model_conf{:} 'Model']);
+ank_file_name=fullfile(DataPath,['TrialAnk_' side_sel '_' model_conf{:} 'Model']);
+hip_file_name=fullfile(DataPath,['TrialHip_' side_sel '_' model_conf{:} 'Model']);
+kne_file_name=fullfile(DataPath,['TrialKne_' side_sel '_' model_conf{:} 'Model']);
 
 Misc.IKfile = {[ank_file_name '.mot'], [hip_file_name '.mot'], [kne_file_name '.mot']};
 Misc.IDfile = {[ank_file_name '.sto'], [hip_file_name '.sto'], [kne_file_name '.sto']};

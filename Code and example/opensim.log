@@ -591,3 +591,147 @@
 [2023-06-30 15:16:17.013] [info] Executing the analyses from 0.0 to 2.99...
 [2023-06-30 15:16:23.780] [info] Printing results of investigation TrialKne_r_ankDor20hip0_ankPla15hip0_ankDor20hipExt15_rajagopalModel to C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Code and example\CalibrationOutcome\MuscleAnalysis
 [2023-06-30 15:16:43.671] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Dropbox\PhDWork\Simulation\code\PassiveMoments\CodeMaarten\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 20:22:57.654] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Documents\GitHub\MetabolicRateWalking\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 20:22:58.274] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Documents\GitHub\MetabolicRateWalking\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 20:22:58.657] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Documents\GitHub\MetabolicRateWalking\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 20:22:58.762] [info] AbstractTool TrialAnk_r_rajagopalModel loading model C:\Users\israe\Documents\GitHub\MetabolicRateWalking\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 20:22:58.821] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Documents\GitHub\MetabolicRateWalking\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 20:22:58.959] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 20:22:59.049] [info] Loading coordinates from file 'C:\Users\israe\Documents\GitHub\MetabolicRateWalking\Code and example\Data\TrialAnk_r_rajagopalModel.mot'.
+[2023-06-30 20:22:59.049] [info] Old version storage/motion file encountered
+[2023-06-30 20:22:59.049] [info] Storage: read data file = C:\Users\israe\Documents\GitHub\MetabolicRateWalking\Code and example\Data\TrialAnk_r_rajagopalModel.mot (nr=150 nc=4)
+[2023-06-30 20:22:59.049] [info] .. assuming rotations in Degrees..
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/patellofemoral_r/knee_angle_r_beta/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/walker_knee_l/knee_angle_l/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/patellofemoral_l/knee_angle_l_beta/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_extension/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_bending/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_rotation/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_flex_r/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_add_r/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_rot_r/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/elbow_r/elbow_flex_r/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/radioulnar_r/pro_sup_r/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_r/wrist_flex_r/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_r/wrist_dev_r/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_flex_l/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_add_l/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_rot_l/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/elbow_l/elbow_flex_l/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/radioulnar_l/pro_sup_l/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_l/wrist_flex_l/value in storage object.
+[2023-06-30 20:22:59.050] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_l/wrist_dev_l/value in storage object.
+[2023-06-30 20:23:02.573] [info] Found 150 state vectors with time stamps ranging from 0.0 to 2.99.
+[2023-06-30 20:23:02.573] [info] Executing the analyses from 0.0 to 2.99...
+[2023-06-30 20:23:07.883] [info] Printing results of investigation TrialAnk_r_rajagopalModel to C:\Users\israe\Documents\GitHub\MetabolicRateWalking\Code and example\CalibrationOutcome\MuscleAnalysis
+[2023-06-30 20:23:08.078] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Documents\GitHub\MetabolicRateWalking\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 20:23:08.169] [info] AbstractTool TrialHip_r_rajagopalModel loading model C:\Users\israe\Documents\GitHub\MetabolicRateWalking\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 20:23:08.241] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Documents\GitHub\MetabolicRateWalking\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 20:23:08.375] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 20:23:08.452] [info] Loading coordinates from file 'C:\Users\israe\Documents\GitHub\MetabolicRateWalking\Code and example\Data\TrialHip_r_rajagopalModel.mot'.
+[2023-06-30 20:23:08.452] [info] Old version storage/motion file encountered
+[2023-06-30 20:23:08.452] [info] Storage: read data file = C:\Users\israe\Documents\GitHub\MetabolicRateWalking\Code and example\Data\TrialHip_r_rajagopalModel.mot (nr=100 nc=4)
+[2023-06-30 20:23:08.452] [info] .. assuming rotations in Degrees..
+[2023-06-30 20:23:08.452] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+[2023-06-30 20:23:08.452] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+[2023-06-30 20:23:08.452] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+[2023-06-30 20:23:08.452] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+[2023-06-30 20:23:08.452] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+[2023-06-30 20:23:08.452] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+[2023-06-30 20:23:08.452] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+[2023-06-30 20:23:08.452] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+[2023-06-30 20:23:08.452] [warning] Model::formCompleteStorages():  Did not find column /jointset/patellofemoral_r/knee_angle_r_beta/value in storage object.
+[2023-06-30 20:23:08.452] [warning] Model::formCompleteStorages():  Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+[2023-06-30 20:23:08.452] [warning] Model::formCompleteStorages():  Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+[2023-06-30 20:23:08.452] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+[2023-06-30 20:23:08.452] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+[2023-06-30 20:23:08.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+[2023-06-30 20:23:08.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/walker_knee_l/knee_angle_l/value in storage object.
+[2023-06-30 20:23:08.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/patellofemoral_l/knee_angle_l_beta/value in storage object.
+[2023-06-30 20:23:08.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+[2023-06-30 20:23:08.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+[2023-06-30 20:23:08.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+[2023-06-30 20:23:08.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_extension/value in storage object.
+[2023-06-30 20:23:08.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_bending/value in storage object.
+[2023-06-30 20:23:08.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_rotation/value in storage object.
+[2023-06-30 20:23:08.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_flex_r/value in storage object.
+[2023-06-30 20:23:08.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_add_r/value in storage object.
+[2023-06-30 20:23:08.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_rot_r/value in storage object.
+[2023-06-30 20:23:08.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/elbow_r/elbow_flex_r/value in storage object.
+[2023-06-30 20:23:08.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/radioulnar_r/pro_sup_r/value in storage object.
+[2023-06-30 20:23:08.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_r/wrist_flex_r/value in storage object.
+[2023-06-30 20:23:08.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_r/wrist_dev_r/value in storage object.
+[2023-06-30 20:23:08.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_flex_l/value in storage object.
+[2023-06-30 20:23:08.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_add_l/value in storage object.
+[2023-06-30 20:23:08.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_rot_l/value in storage object.
+[2023-06-30 20:23:08.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/elbow_l/elbow_flex_l/value in storage object.
+[2023-06-30 20:23:08.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/radioulnar_l/pro_sup_l/value in storage object.
+[2023-06-30 20:23:08.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_l/wrist_flex_l/value in storage object.
+[2023-06-30 20:23:08.453] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_l/wrist_dev_l/value in storage object.
+[2023-06-30 20:23:11.032] [info] Found 100 state vectors with time stamps ranging from 0.0 to 1.99.
+[2023-06-30 20:23:11.032] [info] Executing the analyses from 0.0 to 1.99...
+[2023-06-30 20:23:14.660] [info] Printing results of investigation TrialHip_r_rajagopalModel to C:\Users\israe\Documents\GitHub\MetabolicRateWalking\Code and example\CalibrationOutcome\MuscleAnalysis
+[2023-06-30 20:23:14.822] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Documents\GitHub\MetabolicRateWalking\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 20:23:14.911] [info] AbstractTool TrialKne_r_rajagopalModel loading model C:\Users\israe\Documents\GitHub\MetabolicRateWalking\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 20:23:14.974] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Documents\GitHub\MetabolicRateWalking\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
+[2023-06-30 20:23:15.105] [info] No external loads will be applied (external loads file not specified).
+[2023-06-30 20:23:15.184] [info] Loading coordinates from file 'C:\Users\israe\Documents\GitHub\MetabolicRateWalking\Code and example\Data\TrialKne_r_rajagopalModel.mot'.
+[2023-06-30 20:23:15.185] [info] Old version storage/motion file encountered
+[2023-06-30 20:23:15.185] [info] Storage: read data file = C:\Users\israe\Documents\GitHub\MetabolicRateWalking\Code and example\Data\TrialKne_r_rajagopalModel.mot (nr=150 nc=4)
+[2023-06-30 20:23:15.185] [info] .. assuming rotations in Degrees..
+[2023-06-30 20:23:15.185] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+[2023-06-30 20:23:15.185] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+[2023-06-30 20:23:15.185] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+[2023-06-30 20:23:15.185] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+[2023-06-30 20:23:15.185] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+[2023-06-30 20:23:15.185] [warning] Model::formCompleteStorages():  Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+[2023-06-30 20:23:15.185] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+[2023-06-30 20:23:15.185] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+[2023-06-30 20:23:15.185] [warning] Model::formCompleteStorages():  Did not find column /jointset/patellofemoral_r/knee_angle_r_beta/value in storage object.
+[2023-06-30 20:23:15.185] [warning] Model::formCompleteStorages():  Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+[2023-06-30 20:23:15.185] [warning] Model::formCompleteStorages():  Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+[2023-06-30 20:23:15.185] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+[2023-06-30 20:23:15.185] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+[2023-06-30 20:23:15.185] [warning] Model::formCompleteStorages():  Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+[2023-06-30 20:23:15.186] [warning] Model::formCompleteStorages():  Did not find column /jointset/walker_knee_l/knee_angle_l/value in storage object.
+[2023-06-30 20:23:15.186] [warning] Model::formCompleteStorages():  Did not find column /jointset/patellofemoral_l/knee_angle_l_beta/value in storage object.
+[2023-06-30 20:23:15.186] [warning] Model::formCompleteStorages():  Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+[2023-06-30 20:23:15.186] [warning] Model::formCompleteStorages():  Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+[2023-06-30 20:23:15.186] [warning] Model::formCompleteStorages():  Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+[2023-06-30 20:23:15.186] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_extension/value in storage object.
+[2023-06-30 20:23:15.186] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_bending/value in storage object.
+[2023-06-30 20:23:15.186] [warning] Model::formCompleteStorages():  Did not find column /jointset/back/lumbar_rotation/value in storage object.
+[2023-06-30 20:23:15.186] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_flex_r/value in storage object.
+[2023-06-30 20:23:15.186] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_add_r/value in storage object.
+[2023-06-30 20:23:15.186] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_r/arm_rot_r/value in storage object.
+[2023-06-30 20:23:15.186] [warning] Model::formCompleteStorages():  Did not find column /jointset/elbow_r/elbow_flex_r/value in storage object.
+[2023-06-30 20:23:15.186] [warning] Model::formCompleteStorages():  Did not find column /jointset/radioulnar_r/pro_sup_r/value in storage object.
+[2023-06-30 20:23:15.186] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_r/wrist_flex_r/value in storage object.
+[2023-06-30 20:23:15.186] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_r/wrist_dev_r/value in storage object.
+[2023-06-30 20:23:15.186] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_flex_l/value in storage object.
+[2023-06-30 20:23:15.186] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_add_l/value in storage object.
+[2023-06-30 20:23:15.186] [warning] Model::formCompleteStorages():  Did not find column /jointset/acromial_l/arm_rot_l/value in storage object.
+[2023-06-30 20:23:15.186] [warning] Model::formCompleteStorages():  Did not find column /jointset/elbow_l/elbow_flex_l/value in storage object.
+[2023-06-30 20:23:15.186] [warning] Model::formCompleteStorages():  Did not find column /jointset/radioulnar_l/pro_sup_l/value in storage object.
+[2023-06-30 20:23:15.186] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_l/wrist_flex_l/value in storage object.
+[2023-06-30 20:23:15.186] [warning] Model::formCompleteStorages():  Did not find column /jointset/radius_hand_l/wrist_dev_l/value in storage object.
+[2023-06-30 20:23:18.932] [info] Found 150 state vectors with time stamps ranging from 0.0 to 2.99.
+[2023-06-30 20:23:18.932] [info] Executing the analyses from 0.0 to 2.99...
+[2023-06-30 20:23:25.805] [info] Printing results of investigation TrialKne_r_rajagopalModel to C:\Users\israe\Documents\GitHub\MetabolicRateWalking\Code and example\CalibrationOutcome\MuscleAnalysis
+[2023-06-30 20:23:47.717] [info] Loaded model Rajagopal2015_passiveCal_hipAbdMoved from file C:\Users\israe\Documents\GitHub\MetabolicRateWalking\Code and example\Data\Rajagopal2015_passiveCal_hipAbdMoved.osim
