@@ -2,7 +2,7 @@
 Accurate muscle excitations, muscle fibers, and metabolic rate estimations can be achieved by personalizing muscle-tendon parameters and muscle energetic models. In this repository, we provide the scripts for calibrating muscle passive forces, personalizing the tendon stiffness based on EMG-informed simulations, and various implementations of metabolic cost models from the literature. Further information about our study and computational methods can be found in the publication: “Metabolic cost of each step: model biofidelity leads to accurate estimations.”
 <br>
 
-This a work in collaboration with researchers from KULeaven. The scripts are written in Matlab and are derived from the muscle redundancy solver from KULeuvenNeuromechanics.
+This is a work in collaboration with researchers from KULeaven. The scripts are written in Matlab and are derived from the muscle redundancy solver from KULeuvenNeuromechanics.
 <br>
 
 ## Description
